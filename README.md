@@ -23,7 +23,7 @@ We’ve taken the classic "Pick and Match" game and given it a motorized upgrade
 
 With a single press of an Assistive Technology (AT) button, the motor whirls the spinner to a random fruit. It’s a fun, high-cause-and-effect way to challenge students to match various fruits they might otherwise skip.
 
-This setup is perfect for classroom use and easily connects to an Adapted Recorder Button[https://github.com/Engineering-Good/T4G-Adapted-Recorder-Button] for accessibility.
+This setup is perfect for classroom use and easily connects to an [Adapted Recorder Button](https://github.com/Engineering-Good/T4G-Adapted-Recorder-Button) for accessibility.
 
 
 
