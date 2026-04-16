@@ -1,10 +1,3 @@
-# T4G-Template
-<!--- delete this part after done. Start --->
-This is a GitHub repository intended to act as a template for an open source assistive technology device. It is meant to contain all design files, build files, and documentation for the project. 
-<!--- TITLE --->
-<!--- Open Source Assistive Technology: GitHub Readme Template --->
-
-
 <!--- INSTRUCTIONS --->
 <!--- This is a markdown template for creating the README.md file in a GitHub repository. This file is rendered and displayed automatically when someone visits the repository.
 
@@ -23,19 +16,20 @@ Any text that is currently holding a space / is an instruction for the person fi
 --->
 <!--- delete this part after done. End --->
 
-# <DeviceName>
+# Spinner Game
 <!--- TITLE --->
 <!--- SUMMARY --->
-The is an assistive technology device that.
+We’ve taken the classic "Pick and Match" game and given it a motorized upgrade! To help students move past picking only their favorite fruits, we’ve added a simple toy car motor to randomize the spinner of the choice the student picked.
 
-The device is comprised of off-the-shelf electronics and 3D printed parts.
+With a single press of an Assistive Technology (AT) button, the motor whirls the spinner to a random fruit. It’s a fun, high-cause-and-effect way to challenge students to match various fruits they might otherwise skip.
 
-The is open assistive technology (OpenAT). Under the terms of the open source licenses, the device may be built, used, and improved upon by anyone.
+This setup is perfect for classroom use and easily connects to an [Adapted Recorder Button](https://github.com/Engineering-Good/T4G-Adapted-Recorder-Button) for accessibility.
 
-The overall cost of materials is about $ (excluding component shipping fee).
+
+
 
 The current version of the device (v1.0) has been built and user tested.
-<img src="photos/device-name.jpg" width="500" alt="Picture of Template Device Name.">
+<img src="photos/Spinner_Game.jpg" width="500" alt="Picture of Spinner Game.">
 
 ## How to Obtain the Device
 
@@ -53,15 +47,15 @@ This is an open-source assistive technology, so anyone is free to build it. All 
 
 ### 1. Read through the Maker Guide
 
-The [Maker Guide](/documentation/Product_Manual_Template_Product_Name.pdf)  contains all the necessary information to build this device, including tool lists, assembly instructions, and testing.
+The [Maker Guide](/documentation/Product_Manual_Spinner_Game.pdf)  contains all the necessary information to build this device, including tool lists, assembly instructions, and testing.
 
 ### 2. Order the Off-The-Shelf Components
 
-The [Bill of Materials](/documentation/Template_BOM.csv) lists all of the parts and components required to build the Template Device.
+The [Bill of Materials](/documentation/Spinner_Game_BOM.csv) lists all of the parts and components required to build the Template Device.
 
 ### 3. Assemble the Template Device
 
-Reference the Assembly Guide section of the [Maker Guide](/documentation/Product_Manual_Template_Product_Name.pdf) for the tools and steps required to build each portion.
+Reference the Assembly Guide section of the [Maker Guide](/documentation/Product_Manual_Spinner_Game.pdf) for the tools and steps required to build each portion.
 
 ## How to improve this Device
 
@@ -73,18 +67,11 @@ As open source assistive technology, you are welcomed and encouraged to improve 
 
 | Document             | Version | Link |
 |----------------------|---------|------|
-| Maker Guide          | 1.0     | [Template_Maker_Guide](/documentation/Product_Manual_Template_Product_Name.pdf)     |
-| Bill of Materials    | 1.0     | [Template_Bill_of_Materials](/documentation/Template_BOM.csv)     |
-| User Guide           | 1.0     | [Template_User_Guide](/documentation/Product_Manual_Template_Product_Name.pdf)    |
-| Changelog            | 1.0     | [Template_Change_Log](/documentation/CHANGES.txt)     |
+| Maker Guide          | 1.0     | [Spinner_Game_Guide](/documentation/Product_Manual_Spinner_Game.pdf)     |
+| Bill of Materials    | 1.0     | [Spinner_Game_Bill_of_Materials](/documentation/Spinner_Game_BOM.csv)     |
+| User Guide           | 1.0     | [Spinner_Game_User_Guide](/documentation/Product_Manual_Spinner_Game.pdf)    |
+| Changelog            | 1.0     | [Spinner_Game_Change_Log](/documentation/CHANGES.txt)     |
 
-## Open Hardware Attribution
-
-The core design for this device/template is based on the some device/template, an open-source assistive technology project.
-- Original Designer: Makers Making Change (a program of Neil Squire).
-- Original Copyright:  Copyright (c) Neil Squire / Makers Making Change.
-- Original Source Location: The original project source files are available online at: 
-<https://github.com/makersmakingchange/OpenAT-Template>
 
 ## License
 
@@ -100,7 +87,7 @@ You may redistribute and modify this documentation and make products using it un
 This documentation is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE.
 Please see the CERN-OHL-W v2 for applicable conditions.
 
-Source Location: <https://github.com/Engineering-Good/T4G-Template>
+Source Location: <https://github.com/Engineering-Good/T4G-Spinner-Game>
 
 ----
 
@@ -114,10 +101,14 @@ Source Location: <https://github.com/Engineering-Good/T4G-Template>
 - Instagram: [@engineeringgood](https://www.instagram.com/engineeringgood/)
 - Facebook: [engineeringgood](https://www.facebook.com/engineeringgood.org/)
 - LinkedIn: [engineeringgood](https://www.linkedin.com/company/engineeringgood/?originalSubdomain=sg)
-- Thingiverse: Not Created
-- Printables: Not Created
+- Thingiverse: [engineeringgood](https://www.thingiverse.com/engineeringgood/designs)
+- Printables: [@engineeringg_4351657](https://www.printables.com/@engineeringg_4351657)
 
 ### Contact Us
 
-For technical questions, to get involved, or to share your experience we encourage you to [visit our website](https://www.engineeringgood.org/), [contact us](https://www.engineeringgood.org/contact-faq/) or email us at [contactus@engineeringgood.org](mailto:contactus@engineeringgood.org).
+For technical or non-techical questions, to get involved, or to share your experience we encourage you to 
+- Visit [our website](https://www.engineeringgood.org/)
+- Vontact us via [contact us form](https://www.engineeringgood.org/contact-faq/)
+- Email us at [contactus@engineeringgood.org](mailto:contactus@engineeringgood.org)
+- Volunteering Opportunities [working in progress](https://www.notion.so/engineeringgood/Volunteering-Opportunities-2025-ffa3d3ec8bb34ac7a672f5c10ee8177b)
 <!-- ABOUT EG END -->
