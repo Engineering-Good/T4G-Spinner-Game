@@ -1,10 +1,3 @@
-# T4G-Template
-<!--- delete this part after done. Start --->
-This is a GitHub repository intended to act as a template for an open source assistive technology device. It is meant to contain all design files, build files, and documentation for the project. 
-<!--- TITLE --->
-<!--- Open Source Assistive Technology: GitHub Readme Template --->
-
-
 <!--- INSTRUCTIONS --->
 <!--- This is a markdown template for creating the README.md file in a GitHub repository. This file is rendered and displayed automatically when someone visits the repository.
 
@@ -23,16 +16,17 @@ Any text that is currently holding a space / is an instruction for the person fi
 --->
 <!--- delete this part after done. End --->
 
-# <DeviceName>
+# Spinner Game
 <!--- TITLE --->
 <!--- SUMMARY --->
-The is an assistive technology device that.
+We’ve taken the classic "Pick and Match" game and given it a motorized upgrade! To help students move past picking only their favorite fruits, we’ve added a simple toy car motor to randomize the spinner of the choice the student picked.
 
-The device is comprised of off-the-shelf electronics and 3D printed parts.
+With a single press of an Assistive Technology (AT) button, the motor whirls the spinner to a random fruit. It’s a fun, high-cause-and-effect way to challenge students to match various fruits they might otherwise skip.
 
-The is open assistive technology (OpenAT). Under the terms of the open source licenses, the device may be built, used, and improved upon by anyone.
+This setup is perfect for classroom use and easily connects to an Adapted Recorder Button[https://github.com/Engineering-Good/T4G-Adapted-Recorder-Button] for accessibility.
 
-The overall cost of materials is about $ (excluding component shipping fee).
+
+
 
 The current version of the device (v1.0) has been built and user tested.
 <img src="photos/Spinner_Game.jpg" width="500" alt="Picture of Spinner Game.">
